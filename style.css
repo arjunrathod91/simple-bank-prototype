@@ -1,0 +1,230 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+main{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+#container{
+    background-color: rgb(255, 255, 255);
+    height: 700px;
+    width: 400px;
+
+}
+img{
+    height: 269px;
+    width: 341px;
+    margin-top: 15%;
+    margin-left: 6%;
+}
+#introbut{
+    background-color: rgb(61, 213, 255);
+    color: aliceblue;
+    height: 45px;
+    font-size: 1.8rem;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    font-family: serif;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+#ele{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    margin-top: 35px;
+}
+a{
+    text-decoration: none;
+}
+#sbilogo{
+    height: 50px;
+    width: 116px;
+    margin-bottom: 22px;
+}
+#save{
+    background-color: rgb(246, 30, 156);
+    color: aliceblue;
+    height: 55px;
+    font-size: 1.2rem;
+    width: 222px;
+    border: none;
+    border-radius: 10px;
+    font-family: serif;
+    margin-left: 20px;
+    margin-top: 82px;
+}
+#buise{
+    background-color: rgb(246, 30, 156);
+    color: aliceblue;
+    height: 55px;
+    font-size: 1.2rem;
+    width: 222px;
+    border: none;
+    border-radius: 10px;
+    font-family: serif;
+    margin-left: 20px;
+    margin-top: 82px;
+    margin-right: 20px;
+}
+.img2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.img3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 40px;
+}
+#img4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 40px;
+}
+#img4 input{
+    margin-top: 10px;
+    height: 40px;
+    width: 212px;
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    text-align: start;
+    padding: 10px;
+}
+#img4 button{
+    margin-top: 15px;
+    height: 38px;
+    width: 72px;
+    font-size: 0.8rem;
+    background-color: white;
+}
+p{
+    margin-top: 10px;
+    margin-top: 59px;
+    font-size: 1rem;
+}
+
+#depo{
+    background-color: rgb(246, 30, 156);
+    color: aliceblue;
+    height: 55px;
+    font-size: 1.2rem;
+    width: 127px;
+    border: none;
+    border-radius: 10px;
+    font-family: serif;
+    margin-left: 64px;
+    margin-top: 40px;
+}
+#with{
+    background-color: rgb(246, 30, 156);
+    color: aliceblue;
+    height: 55px;
+    font-size: 1.2rem;
+    width: 127px;
+    border: none;
+    border-radius: 10px;
+    font-family: serif;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#trans{
+    background-color: rgb(246, 30, 156);
+    color: aliceblue;
+    height: 55px;
+    font-size: 1.2rem;
+    width: 127px;
+    border: none;
+    border-radius: 10px;
+    font-family: serif;
+    margin-left: 64px;
+    margin-top: 20px;
+}
+#donate{
+    background-color: rgb(246, 30, 156);
+    color: aliceblue;
+    height: 55px;
+    font-size: 1.2rem;
+    width: 127px;
+    border: none;
+    border-radius: 10px;
+    font-family: serif;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.img5{
+
+}
+.img6 button{
+    background-color:aliceblue;
+    border: 1px solid black;
+    height: 38px;
+    width: 72px;
+    font-size: 0.8rem;
+    background-color: white;
+    margin-top: 10px;
+
+}
+button img{
+    height: 26px;
+    width: 41px;
+    position: absolute;
+    left: 63%;
+    top: 35%;
+
+}
+.img6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#doneimg{
+    height: 112px;
+    width: 117px;
+    margin-right: 39px;
+    margin-bottom: -9px;
+    margin-top: 8px;
+}
+/* #ammount{
+    font-size: 20px;
+    transition: 4s;
+} */
+#amm_num{
+    margin-top: 10px;
+    height: 40px;
+    width: 212px;
+    font-size: 1rem;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    text-align: start;
+    padding: 10px;
+
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 35px;
+}
+#footerimg{
+    height: 50px;
+    width: 70px;
+    height: 20px;
+    width: 62px;
+}
